@@ -32,6 +32,6 @@ Private Server connects you to an alternative less busy server.
 # Project Status
 So people know when the project was under development.
 
-Status: Private
+Status: Public
 
-Current State: Publishing...
+Current State: Build 2 Public and private release
