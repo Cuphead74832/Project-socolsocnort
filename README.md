@@ -34,4 +34,4 @@ So people know when the project was under development.
 
 Status: Private
 
-Current State: In Development
+Current State: Publishing...
