@@ -1,7 +1,4 @@
-# https://cuphead74832.github.io/Project-socolsocnort/ (KNOWN ISSUE PAGE SERVER WONT LOAD USE BELOW)
-
-# Private Server: https://cuphead74832.github.io/Project-socolsocnort/private
-# Public Server: https://cuphead74832.github.io/Project-socolsocnort/public
+# https://cuphead74832.github.io/Project-socolsocnort/
 
 # AMOGUS GRAND PRIX EDITION DOUBLE BOOSTER PACK EXPANSION PACK & KNUCKLES (Project socoLsocnorT)
 Among Us is a game by Innersloth and theres a scratch version this is a memefied open source version of that version.
