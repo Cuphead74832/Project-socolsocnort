@@ -1,6 +1,6 @@
 # https://cuphead74832.github.io/Project-socolsocnrot
 
-# AMOGUS GRAND PRIX EDITION DOUBLE BOOSTER PACK EXPANSION PACK TREASURE HUNT DLC FOR AMONG US X & Y & KNUCKLES (Project socoLsocnorT)
+# AMOGUS GRAND PRIX EDITION DOUBLE BOOSTER PACK EXPANSION PACK & KNUCKLES (Project socoLsocnorT)
 Among Us is a game by Innersloth and theres a scratch version this is a memefied open source version of that version.
 
 Innersloth is NOT related with this project.
