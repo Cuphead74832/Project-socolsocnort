@@ -25,13 +25,14 @@ Nice Played Alfacar! #GrandPrix2023
 
 # Public or private server?
 
-The public server is connected to the original turbowarp server this project does not change the gameplay behavior and so only textures intro music and such so you can play with this custom client without being accused of cheating.
+The public server (Check Original scratch project section on README document) is connected to the original turbowarp server this project does not change the gameplay behavior and so only textures intro music and such so you can play with this custom client without being accused of cheating.
 
 Private Server connects you to an alternative less busy server.
+Both are connected to clouddata.turbowarp.org
 
 # Project Status
 So people know when the project was under development.
 
 Status: Public
 
-Current State: Build 2 Public and private release
+Current State: Cloud Server issue being investigated.
