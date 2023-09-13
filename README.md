@@ -1,4 +1,4 @@
-# https://cuphead74832.github.io/Project-socolsocnort/ (CLOUD SERVER IS HAVING ISSUES AND BEING INVESTIGATED)
+# https://cuphead74832.github.io/Project-socolsocnort/
 
 # AMOGUS GRAND PRIX EDITION DOUBLE BOOSTER PACK EXPANSION PACK & KNUCKLES (Project socoLsocnorT)
 Among Us is a game by Innersloth and theres a scratch version this is a memefied open source version of that version.
@@ -35,4 +35,4 @@ So people know when the project was under development.
 
 Status: Public
 
-Current State: Cloud Server issue being investigated.
+Current State: Cloud Server issue fixed.
